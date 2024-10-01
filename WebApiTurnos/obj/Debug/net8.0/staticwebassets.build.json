@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EI6OxAeTvtKPr16yHbK6qIOk7YaxTtHEOeNLFOYmZbk=",
+  "Source": "WebApiTurnos",
+  "BasePath": "_content/WebApiTurnos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

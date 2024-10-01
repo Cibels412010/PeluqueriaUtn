@@ -1,0 +1,6 @@
+@WebApiTurnos_HostAddress = http://localhost:5058
+
+GET {{WebApiTurnos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

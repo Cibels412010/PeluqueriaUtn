@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\bin\Debug\net8.0\BackTurnos.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\bin\Debug\net8.0\BackTurnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\bin\Debug\net8.0\BackTurnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\refint\BackTurnos.dll
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\BackTurnos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\programacion\programacion ii\ejercicios\Ejercicio_2_7_Turnos\BackTurnos\obj\Debug\net8.0\ref\BackTurnos.dll

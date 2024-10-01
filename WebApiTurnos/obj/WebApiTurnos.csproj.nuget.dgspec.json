@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\WebApiTurnos\\WebApiTurnos.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\WebApiTurnos\\WebApiTurnos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\BackTurnos\\BackTurnos.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\BackTurnos\\BackTurnos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\BackTurnos\\BackTurnos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\BackTurnos\\BackTurnos.csproj",
         "projectName": "BackTurnos",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\BackTurnos\\BackTurnos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\BackTurnos\\BackTurnos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\BackTurnos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\BackTurnos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\WebApiTurnos\\WebApiTurnos.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\WebApiTurnos\\WebApiTurnos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\WebApiTurnos\\WebApiTurnos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\WebApiTurnos\\WebApiTurnos.csproj",
         "projectName": "WebApiTurnos",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\WebApiTurnos\\WebApiTurnos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\WebApiTurnos\\WebApiTurnos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\WebApiTurnos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\WebApiTurnos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\BackTurnos\\BackTurnos.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos\\BackTurnos\\BackTurnos.csproj"
+              "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\BackTurnos\\BackTurnos.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\programacion\\programacion ii\\ejercicios\\Ejercicio_2_7_Turnos - copia\\BackTurnos\\BackTurnos.csproj"
               }
             }
           }
@@ -125,10 +125,6 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -141,7 +137,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.8.1, )"
             }
           },
           "imports": [

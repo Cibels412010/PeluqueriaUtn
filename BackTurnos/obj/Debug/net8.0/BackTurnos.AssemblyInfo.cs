@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackTurnos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+113a0b300528d9f188c8c2d920a55be8883410aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackTurnos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackTurnos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
